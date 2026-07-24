@@ -1,6 +1,6 @@
 # Preguntas de Práctica — Dominio 3: Diseño de Arquitecturas de Alto Rendimiento
 
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Dominio 3](SAA_C03_Dominio3.md) · [Siguiente: Dominio 4 ➡️](SAA_C03_Dominio4.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Dominio 3](../dominios/SAA_C03_Dominio3.md) · [Siguiente: Dominio 4](../dominios/SAA_C03_Dominio4.md)
 
 ---
 
@@ -168,4 +168,4 @@ Una empresa de retail necesita construir un pipeline de datos que integre inform
 
 ---
 
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Dominio 3](SAA_C03_Dominio3.md) · [Siguiente: Dominio 4 ➡️](SAA_C03_Dominio4.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Dominio 3](../dominios/SAA_C03_Dominio3.md) · [Siguiente: Dominio 4](../dominios/SAA_C03_Dominio4.md)

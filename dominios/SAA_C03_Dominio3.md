@@ -2,9 +2,8 @@
 
 # Dominio 3 -- Diseño de Arquitecturas de Alto Rendimiento
 
-> **Progreso: 0/5 módulos completados**
 
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Preguntas — Dominio 2](SAA_C03_Preguntas_D2.md) · [Siguiente: Preguntas — Dominio 3 ➡️](SAA_C03_Preguntas_D3.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Preguntas — Dominio 2](../preguntas/SAA_C03_Preguntas_D2.md) · [Siguiente: Preguntas — Dominio 3](../preguntas/SAA_C03_Preguntas_D3.md)
 
 ---
 
@@ -303,4 +302,4 @@ examen SAA-C03.
 
 ---
 
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Preguntas — Dominio 2](SAA_C03_Preguntas_D2.md) · [Siguiente: Preguntas — Dominio 3 ➡️](SAA_C03_Preguntas_D3.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Preguntas — Dominio 2](../preguntas/SAA_C03_Preguntas_D2.md) · [Siguiente: Preguntas — Dominio 3](../preguntas/SAA_C03_Preguntas_D3.md)

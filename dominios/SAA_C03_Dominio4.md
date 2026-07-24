@@ -2,9 +2,7 @@
 
 # Dominio 4 -- Diseño de Arquitecturas con Optimización de Costos
 
-> **Progreso: 0/4 módulos completados**
-
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Preguntas — Dominio 3](SAA_C03_Preguntas_D3.md) · [Siguiente: Preguntas — Dominio 4 ➡️](SAA_C03_Preguntas_D4.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Preguntas — Dominio 3](../preguntas/SAA_C03_Preguntas_D3.md) · [Siguiente: Preguntas — Dominio 4](../preguntas/SAA_C03_Preguntas_D4.md)
 
 ---
 
@@ -293,4 +291,4 @@ para los escenarios evaluados en el examen SAA-C03.
 
 ---
 
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Preguntas — Dominio 3](SAA_C03_Preguntas_D3.md) · [Siguiente: Preguntas — Dominio 4 ➡️](SAA_C03_Preguntas_D4.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Preguntas — Dominio 3](../preguntas/SAA_C03_Preguntas_D3.md) · [Siguiente: Preguntas — Dominio 4](../preguntas/SAA_C03_Preguntas_D4.md)

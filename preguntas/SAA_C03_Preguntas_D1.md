@@ -1,6 +1,6 @@
 # Preguntas de Práctica — Dominio 1: Diseño de Arquitecturas Seguras
 
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Dominio 1](SAA_C03_Dominio1.md) · [Siguiente: Dominio 2 ➡️](SAA_C03_Dominio2.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Dominio 1](../dominios/SAA_C03_Dominio1.md) · [Siguiente: Dominio 2](../dominios/SAA_C03_Dominio2.md)
 
 ---
 
@@ -164,4 +164,4 @@ Una empresa opera bases de datos RDS en múltiples regiones de AWS y necesita un
 
 ---
 
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Dominio 1](SAA_C03_Dominio1.md) · [Siguiente: Dominio 2 ➡️](SAA_C03_Dominio2.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Dominio 1](../dominios/SAA_C03_Dominio1.md) · [Siguiente: Dominio 2](../dominios/SAA_C03_Dominio2.md)

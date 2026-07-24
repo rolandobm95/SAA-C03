@@ -1,6 +1,6 @@
 # Preguntas de Práctica — Dominio 4: Diseño de Arquitecturas con Optimización de Costos
 
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Dominio 4](SAA_C03_Dominio4.md) · [Siguiente: Índice de Servicios ➡️](SAA_C03_Servicios.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Dominio 4](../dominios/SAA_C03_Dominio4.md) · [Siguiente: Índice de Servicios](../servicios/SAA_C03_Servicios.md)
 
 ---
 
@@ -166,4 +166,4 @@ Una empresa distribuye contenido estático (imágenes, videos y documentos) alma
 
 ---
 
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Dominio 4](SAA_C03_Dominio4.md) · [Siguiente: Índice de Servicios ➡️](SAA_C03_Servicios.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Dominio 4](../dominios/SAA_C03_Dominio4.md) · [Siguiente: Índice de Servicios](../servicios/SAA_C03_Servicios.md)

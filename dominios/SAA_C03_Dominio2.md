@@ -2,9 +2,8 @@
 
 # Dominio 2 -- Diseño de Arquitecturas Resistentes
 
-> **Progreso: 0/11 módulos completados**
 
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Preguntas — Dominio 1](SAA_C03_Preguntas_D1.md) · [Siguiente: Preguntas — Dominio 2 ➡️](SAA_C03_Preguntas_D2.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Preguntas — Dominio 1](../preguntas/SAA_C03_Preguntas_D1.md) · [Siguiente: Preguntas — Dominio 2](../preguntas/SAA_C03_Preguntas_D2.md)
 
 ---
 
@@ -310,4 +309,4 @@ utilizando las mejores prácticas y servicios administrados de AWS.
 
 ---
 
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Preguntas — Dominio 1](SAA_C03_Preguntas_D1.md) · [Siguiente: Preguntas — Dominio 2 ➡️](SAA_C03_Preguntas_D2.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Preguntas — Dominio 1](../preguntas/SAA_C03_Preguntas_D1.md) · [Siguiente: Preguntas — Dominio 2](../preguntas/SAA_C03_Preguntas_D2.md)

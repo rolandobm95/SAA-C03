@@ -2,9 +2,8 @@
 
 # Dominio 1 -- Diseño de Arquitecturas Seguras
 
-> **Progreso: 0/14 módulos completados**
 
-**Navegación:** [🏠 Inicio](README.md) · [Siguiente: Preguntas — Dominio 1 ➡️](SAA_C03_Preguntas_D1.md)
+**Navegación:** [Inicio](../README.md) · [Siguiente: Preguntas — Dominio 1](../preguntas/SAA_C03_Preguntas_D1.md)
 
 ---
 
@@ -322,4 +321,4 @@ reales del examen SAA-C03.
 
 ---
 
-**Navegación:** [🏠 Inicio](README.md) · [Siguiente: Preguntas — Dominio 1 ➡️](SAA_C03_Preguntas_D1.md)
+**Navegación:** [Inicio](../README.md) · [Siguiente: Preguntas — Dominio 1](../preguntas/SAA_C03_Preguntas_D1.md)

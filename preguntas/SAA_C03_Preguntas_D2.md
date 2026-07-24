@@ -1,6 +1,6 @@
 # Preguntas de Práctica — Dominio 2: Diseño de Arquitecturas Resistentes
 
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Dominio 2](SAA_C03_Dominio2.md) · [Siguiente: Dominio 3 ➡️](SAA_C03_Dominio3.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Dominio 2](../dominios/SAA_C03_Dominio2.md) · [Siguiente: Dominio 3](../dominios/SAA_C03_Dominio3.md)
 
 ---
 
@@ -162,4 +162,4 @@ Una empresa migra su aplicación a AWS y necesita elegir servicios que maximicen
 
 ---
 
-**Navegación:** [🏠 Inicio](README.md) · [⬅️ Anterior: Dominio 2](SAA_C03_Dominio2.md) · [Siguiente: Dominio 3 ➡️](SAA_C03_Dominio3.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Dominio 2](../dominios/SAA_C03_Dominio2.md) · [Siguiente: Dominio 3](../dominios/SAA_C03_Dominio3.md)
