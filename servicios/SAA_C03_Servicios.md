@@ -5,7 +5,7 @@
 > Lista organizada por categorías según la guía del examen SAA-C03.  
 > Cada servicio incluye enlace directo a la documentación oficial de AWS.
 
-**Navegación:** [🏠 Inicio](../README.md) · [⬅️ Anterior: Preguntas — Dominio 4](../preguntas/SAA_C03_Preguntas_D4.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Preguntas — Dominio 4](../preguntas/SAA_C03_Preguntas_D4.md)
 
 ---
 
@@ -308,5 +308,5 @@ Este archivo sirve como índice maestro de servicios dentro del alcance del exam
 
 ---
 
-**Navegación:** [🏠 Inicio](../README.md) · [⬅️ Anterior: Preguntas — Dominio 4](../preguntas/SAA_C03_Preguntas_D4.md)
+**Navegación:** [Inicio](../README.md) · [Anterior: Preguntas — Dominio 4](../preguntas/SAA_C03_Preguntas_D4.md)
 
